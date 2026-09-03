@@ -34,9 +34,7 @@
 
   <!-- Gif animado -->
 
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Thanks+for+.README;Let's+create+something" />
   <!-- Mensagem final com efeito de digitação -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&width=500&height=70&duration=4000&lines=Thanks+for+.README!" style="display: block; margin: 0 auto; padding: 0;" />
-  </div>
+ 
 </div>
